@@ -1,6 +1,5 @@
-"""
+
 LAYER 4: UI - COMPLETE LEGAL AI FRAMEWORK
-"""
 
 import streamlit as st
 from pypdf import PdfReader
